@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Roshan Rai a Computing Graduate.
+- 👋 Hi, I’m Roshan Raim
 - 👀 I’m interested in designing, developing Database & Website and always looking to learn!.
 - 🌱 I’m currently learning building dynamic website using PHP & developing my other programming skills.
 - 💞️ I’m looking to collaborate on [Not Looking].
