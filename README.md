@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Roshan Rai
-- 👀 I’m interested in designing, developing Database & Website. 
-- 🌱 I’m currently learning building dynamic website using PHP & developing my programming skills.
+- 👋 Hi, I’m Roshan Rai a Computing Graduate.
+- 👀 I’m interested in designing, developing Database & Website and always looking to learn!.
+- 🌱 I’m currently learning building dynamic website using PHP & developing my other programming skills.
 - 💞️ I’m looking to collaborate on [Not Looking].
 - 📫 You can reach me at bayungrai95@gmail.com.
 
